@@ -58,7 +58,7 @@ Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio S
 * **Zero-Trust & Compliance:** Established enterprise-grade access governance, automated provisioning/deprovisioning lifecycles, and security-first compliance frameworks for thousands of global endpoints and identities.
 
 ### 🎮 Game Development & Platform Architecture (18 Years)
-* **50+ Commercial Releases:** Led cross-functional engineering, design, and audio teams to ship over 50 titles spanning console, PC, web, and mobile ecosystems.
+* **50+ Commercial Releases:** Led cross-functional engineering, design, and audio teams to ship over 50 titles spanning console, PC, web, and mobile ecosystems ([view credits on MobyGames](https://www.mobygames.com/person/141757/colin-wilkinson/)).
 * **Design Director & Technical Leadership:** Guided multi-discipline development pipelines, unifying real-time interactive systems, gameplay mechanics, and technical asset optimization across AAA and indie-scale productions.
 
 ---
@@ -77,6 +77,7 @@ Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio S
 * **Consulting & Systems Architecture:** [BOXdev.com](https://boxdev.com)
 * **Audio Engineering & Software:** [ConfluenceAudio.com](https://confluenceaudio.com)
 * **Creative Lab & Experiments:** [Wreckreation.org](https://wreckreation.org)
+* **Game Development Credits:** [MobyGames (Colin Wilkinson)](https://www.mobygames.com/person/141757/colin-wilkinson/)
 
 ```
 Looking to discuss enterprise architecture, low-latency audio systems, or engineering leadership? Feel free to reach out on LinkedIn.
