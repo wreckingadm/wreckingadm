@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wreckingadm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wreckingadm)
 [![BOXdev](https://img.shields.io/badge/Enterprise_Architecture-boxdev.com-111827?style=flat-square&logo=googlecloud&logoColor=white)](https://boxdev.com)
 [![Confluence Audio](https://img.shields.io/badge/Audio_Engineering-confluenceaudio.com-10B981?style=flat-square&logo=soundcharts&logoColor=white)](https://confluenceaudio.com)
-[![Wreckreation Studio](https://img.shields.io/badge/Game_Dev-wreckreation.org-8B5CF6?style=flat-square&logo=gameandwatch&logoColor=white)](https://wreckreation.org)
+[![Wreckreation Lab](https://img.shields.io/badge/Experiments-wreckreation.org-8B5CF6?style=flat-square&logo=flask&logoColor=white)](https://wreckreation.org)
 [![Location](https://img.shields.io/badge/Location-Remote_/_US-6B7280?style=flat-square)](#-connect-with-me)
 
 > **25+ years of multidisciplinary technical leadership and hands-on systems engineering.**  
@@ -76,7 +76,7 @@ Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio S
 * **LinkedIn:** [linkedin.com/in/wreckingadm](https://www.linkedin.com/in/wreckingadm/)
 * **Consulting & Systems Architecture:** [BOXdev.com](https://boxdev.com)
 * **Audio Engineering & Software:** [ConfluenceAudio.com](https://confluenceaudio.com)
-* **Game Dev & Creative Studio:** [Wreckreation.org](https://wreckreation.org)
+* **Creative Lab & Experiments:** [Wreckreation.org](https://wreckreation.org)
 
 ```
 Looking to discuss enterprise architecture, low-latency audio systems, or engineering leadership? Feel free to reach out on LinkedIn.
