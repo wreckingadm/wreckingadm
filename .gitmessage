@@ -1,0 +1,13 @@
+<type>(<scope>): <description>
+
+<!--
+# Types: 
+#   feat:     A new feature (Minor bump)
+#   fix:      A bug fix (Patch bump)
+#   feat!:    A breaking change (Major bump)
+#   chore:    Build process or auxiliary tool changes (No bump)
+#   docs:     Documentation only changes (No bump)
+#   refactor: A code change that neither fixes a bug nor adds a feature (No bump)
+
+# Scopes: profile, readme, github, infra
+-->
