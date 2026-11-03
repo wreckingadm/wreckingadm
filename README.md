@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wreckingadm-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wreckingadm)
 [![BOXdev](https://img.shields.io/badge/Enterprise_Architecture-boxdev.com-111827?style=flat-square&logo=googlecloud&logoColor=white)](https://boxdev.com)
 [![Confluence Audio](https://img.shields.io/badge/Audio_Engineering-confluenceaudio.com-10B981?style=flat-square&logo=soundcharts&logoColor=white)](https://confluenceaudio.com)
-[![Wreckreation Studio](https://img.shields.io/badge/Game_Dev-wreckreation.org-8B5CF6?style=flat-square&logo=gameandwatch&logoColor=white)](https://wreckreation.org)
+[![Wreckreation Lab](https://img.shields.io/badge/Experiments-wreckreation.org-8B5CF6?style=flat-square&logo=flask&logoColor=white)](https://wreckreation.org)
 [![Location](https://img.shields.io/badge/Location-Remote_/_US-6B7280?style=flat-square)](#-connect-with-me)
 
 > **25+ years of multidisciplinary technical leadership and hands-on systems engineering.**  
@@ -48,7 +48,7 @@ Actively shipping and maintaining real-world production platforms, automated inf
 
 ```
 Enterprise Scale (Etsy)  ──────►  10 Years | $1B+ M&A Scope | IAM & Enterprise Infrastructure
-Game Development (Industry)  ──►  18 Years | 50+ Commercial Titles | Design Director & Lead
+Game Development (Industry)  ──►  18 Years | 50+ Commercial Titles | Design Director & Production Lead
 Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio Software | Modern Web
 ```
 
@@ -58,8 +58,8 @@ Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio S
 * **Zero-Trust & Compliance:** Established enterprise-grade access governance, automated provisioning/deprovisioning lifecycles, and security-first compliance frameworks for thousands of global endpoints and identities.
 
 ### 🎮 Game Development & Platform Architecture (18 Years)
-* **50+ Commercial Releases:** Led cross-functional engineering, design, and audio teams to ship over 50 titles spanning console, PC, web, and mobile ecosystems.
-* **Design Director & Technical Leadership:** Guided multi-discipline development pipelines, unifying real-time interactive systems, gameplay mechanics, and technical asset optimization across AAA and indie-scale productions.
+* **50+ Commercial Releases:** Led cross-functional engineering, design, and audio teams to ship over 50 titles spanning console, PC, web, and mobile ecosystems ([view credits on MobyGames](https://www.mobygames.com/person/141757/colin-wilkinson/)).
+* **Design Director & Production Lead:** Guided multi-discipline development pipelines, unifying real-time interactive systems, gameplay mechanics, and technical asset optimization across AAA and indie-scale productions.
 
 ---
 
@@ -76,7 +76,8 @@ Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio S
 * **LinkedIn:** [linkedin.com/in/wreckingadm](https://www.linkedin.com/in/wreckingadm/)
 * **Consulting & Systems Architecture:** [BOXdev.com](https://boxdev.com)
 * **Audio Engineering & Software:** [ConfluenceAudio.com](https://confluenceaudio.com)
-* **Game Dev & Creative Studio:** [Wreckreation.org](https://wreckreation.org)
+* **Creative Lab & Experiments:** [wreckreation.org](https://wreckreation.org)
+* **Game Development Credits:** [MobyGames (Colin Wilkinson)](https://www.mobygames.com/person/141757/colin-wilkinson/)
 
 ```
 Looking to discuss enterprise architecture, low-latency audio systems, or engineering leadership? Feel free to reach out on LinkedIn.
