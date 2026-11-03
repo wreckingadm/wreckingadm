@@ -16,19 +16,19 @@
 
 Actively shipping and maintaining real-world production platforms, automated infrastructure pipelines, and desktop applications:
 
-### 🏢 Enterprise Cloud Architectures & Automated Project Vending
-* **Declarative Multi-Tenant Cloud Vending:** Architected automated infrastructure vending pipelines using **Terraform Cloud (HCP)** and **Google Cloud Platform (GCP)** leveraging the *"Seed"* pattern—automatically provisioning isolated staging/production environments, Cloud Run containers, IAM service boundaries, and Cloudflare Edge WAF/bot mitigation.
-* **Modern Full-Stack Applications:** Developing high-performance enterprise web applications using **Next.js (App Router, React 19, Server Components)**, Tailwind CSS, Firestore, and Cloudflare WAF protection with fine-grained RBAC and Google OAuth.
-* **Cost & Token Governance:** Implemented automated developer environment tooling for AI workflows with per-project Vertex AI token attribution and billing governance.
+### 🏢 Cloud Architectures & Infrastructure as Code (IaC)
+* **Automated Cloud Infrastructure (IaC):** Architected automated deployment pipelines using **Terraform (HCP)** and **Google Cloud Platform (GCP)** to reliably provision isolated staging and production environments, Cloud Run services, IAM access controls, and Cloudflare WAF protection.
+* **Modern Web Applications:** Building full-stack web applications with **Next.js (App Router, React 19)**, Tailwind CSS, and Firestore, secured behind Cloudflare WAF with Google OAuth and role-based access control.
+* **AI Cost & Token Governance:** Created developer tooling for AI workflows with project-level Vertex AI token tracking and billing controls to keep AI experimentation cost-effective.
 
 ### 🎛️ Audio Systems, Low-Latency DSP & Native macOS Software
-* **C++ / JUCE DSP Plugins:** Designing high-performance audio plugins with **C++20** and **JUCE 8**, including hardware analog routing engines, mastering utilities, and low-latency audio processing pipelines.
-* **Deep Learning Audio Intelligence:** Developing native macOS audio analysis tooling pairing **Python** with **Demucs** deep-learning stem separation, multi-dimensional psychoacoustic mix scoring, and real-time frequency distribution analyzers.
-* **Native Desktop Companions:** Engineering lightweight universal macOS utility software in **Swift (Cocoa/WebKit)** and **Python** for DAW session pre-flight inspection, real-time background DAW state monitoring, and automated audio asset lifecycle archiving.
+* **C++ / JUCE Audio Plugins:** Designing audio plugins with **C++20** and **JUCE 8**, including hardware analog routing utilities, mastering tools, and low-latency processing pipelines.
+* **Audio Analysis & Machine Learning:** Developing macOS audio analysis tools combining **Python** with **Demucs** AI stem separation, spectral analysis, and mix evaluation utilities.
+* **Native macOS Utility Software:** Engineering lightweight macOS helper apps in **Swift** and **Python** for DAW session pre-flight inspection, background state monitoring, and automated audio asset archiving.
 
-### ⚡ Developer Platform & Agentic Workflow Systems
-* **Deterministic Release Automation:** Built automated semantic versioning and changelog delivery engines via **Release Please**, **Husky**, and structured Git workflows across monorepo codebases.
-* **Cloud File Distribution Portals:** Architected high-throughput, carbon-optimized audio and media file transfer systems utilizing **Google Cloud Storage (GCS)**, secure signed URL generation, and serverless proxy routing.
+### ⚡ Developer Platforms & Workflows
+* **Automated Releases & CI/CD:** Set up semantic versioning and automated changelog publishing using **Release Please**, **Husky**, and structured Git workflows.
+* **Secure Media Distribution Portals:** Architected fast, carbon-optimized audio and media file transfer systems utilizing **Google Cloud Storage (GCS)**, secure signed URLs, and serverless proxy routing.
 
 ---
 
@@ -36,38 +36,42 @@ Actively shipping and maintaining real-world production platforms, automated inf
 
 | Layer | Technologies & Disciplines |
 | :--- | :--- |
-| **Cloud & Infrastructure** | Google Cloud Platform (Cloud Run, GCS, Firestore, Cloud DNS, Secret Manager), Terraform / Terraform Cloud (HCP), Cloudflare (WAF, Zero-Trust, Edge Rules), Docker, Linux |
+| **Cloud & Infrastructure** | Infrastructure as Code (IaC / Terraform), Google Cloud Platform (Cloud Run, GCS, Firestore, Cloud DNS, Secret Manager), Terraform Cloud (HCP), Cloudflare (WAF, Zero-Trust, Edge Rules), Docker, Linux |
 | **Full-Stack & Languages** | TypeScript / JavaScript, Next.js (App Router), React 19, Python 3.11+, Swift (Cocoa/WebKit), Modern C++ (C++20), Bash/Zsh |
 | **Audio & Systems** | JUCE 8.0, CoreAudio, DSP Algorithms, Demucs (AI Stem Extraction), Librosa, NumPy, Web Audio API, DAW Pipeline Integration |
-| **Enterprise & Governance** | Identity & Access Management (IAM), Zero-Trust Architecture, SaaS Governance, Enterprise Systems Integration, M&A Technical Due Diligence & Migration |
-| **AI & Developer Experience** | Agentic AI Systems (Vertex AI, Anthropic, Gemini API), GitOps, GitHub Actions CI/CD, Monorepo Architecture, Semantic Versioning |
+| **Enterprise & Governance** | Enterprise SaaS Architecture & Governance, SaaS Security & Incident Response, Identity & Access Management (Okta / IAM), Zero-Trust Architecture, M&A Technical Due Diligence & Subsidiary Integrations, Vendor Management & RFPs |
+| **AI & Developer Experience** | Agentic AI Systems (Vertex AI, Anthropic, Gemini API), GitOps, Automated Testing (Vitest, Playwright), GitHub Actions CI/CD, Monorepo Architecture, Semantic Versioning |
 
 ---
 
 ## 📜 Leadership & Career Highlights
 
 ```
-Enterprise Scale (Etsy)  ──────►  10 Years | $1B+ M&A Scope | IAM & Enterprise Infrastructure
+Enterprise Scale (Etsy)  ──────►  10 Years | $1B+ M&A Scope | SaaS Governance, IAM & Infra
 Game Development (Industry)  ──►  18 Years | 50+ Commercial Titles | Design Director & Production Lead
-Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio Software | Modern Web
+Active Builder & Architect  ───►  Cloud Infrastructure (IaC) | Audio DSP Software | Modern Web
 ```
 
 ### 🛍️ Enterprise Systems & Infrastructure Scaling (Etsy — 10 Years)
-* **Hypergrowth & Public Scale:** Architected and scaled internal enterprise IT infrastructure, Identity & Access Management (IAM), and business systems from early growth stage through post-IPO maturity.
-* **$1B+ M&A Integration:** Led enterprise systems integration and IT due diligence across major multi-million and billion-dollar corporate acquisitions, consolidating identity providers, SaaS application portfolios, and cross-organization access controls without operational downtime.
-* **Zero-Trust & Compliance:** Established enterprise-grade access governance, automated provisioning/deprovisioning lifecycles, and security-first compliance frameworks for thousands of global endpoints and identities.
+* **Hypergrowth & Public Scale:** Architected and scaled internal enterprise IT infrastructure, Identity & Access Management (Okta / IAM), and core business platforms from early growth through post-IPO maturity.
+* **$1B+ M&A Technical Strategy:** Directed IT due diligence and systems integration for major acquisitions (Depop, Elo7, Reverb), integrating identity, collaboration tools (Google Workspace, Slack), and enterprise platforms without operational disruption.
+* **SaaS Governance & Access Automation:** Spearheaded enterprise-wide cataloging and migration of hundreds of SaaS platforms, centralizing visibility behind Okta SSO, streamlining access requests, and optimizing multi-million-dollar vendor contracts.
+* **SaaS Security & Incident Response:** Audited and hardened critical enterprise SaaS infrastructure, remediated permission risks, and led on-call incident response rotations (PagerDuty) to build operational resiliency into business-critical systems.
+* **AI Platform Enablement & Cost Control:** Orchestrated corporate-wide rollout and technical onboarding for enterprise AI tools, tracking usage data to maximize adoption while eliminating redundant seat license costs.
+* **Cross-Functional Team & Operational Scale:** Managed cross-functional teams of engineers and operational staff, scaling support workflows empowering 800+ global agents and self-service experiences serving 4M monthly users.
 
-### 🎮 Game Development & Platform Architecture (18 Years)
-* **50+ Commercial Releases:** Led cross-functional engineering, design, and audio teams to ship over 50 titles spanning console, PC, web, and mobile ecosystems ([view credits on MobyGames](https://www.mobygames.com/person/141757/colin-wilkinson/)).
-* **Design Director & Production Lead:** Guided multi-discipline development pipelines, unifying real-time interactive systems, gameplay mechanics, and technical asset optimization across AAA and indie-scale productions.
+### 🎮 Game Development & Interactive Systems (18 Years)
+* **50+ Commercial Releases:** Directed multi-disciplinary engineering and design teams delivering 50+ commercial software titles across mobile, web, handheld, embedded, and PC platforms ([view credits on MobyGames](https://www.mobygames.com/person/141757/colin-wilkinson/)).
+* **Design Director & Production Lead:** Guided development pipelines at independent studios (1st Playable Productions, Vicarious Visions, Hyperspace Cowgirls), serving as primary technical and delivery lead for major publishers and licensors with a strong focus on rapid prototyping, user testing, and workflow optimization.
 
 ---
 
 ## 🤝 How I Work
 
-* **Full-Lifecycle Ownership:** Comfortable operating from 30,000-foot strategic roadmaps down to low-level C++ memory management, Terraform HCL, and React server component optimization.
-* **Architecture with Pragmatism:** Strong bias for declarative infrastructure, auditable code, reproducible builds, and strict security posture.
-* **Empowering Engineering Teams:** Champion of clear documentation, automated CI/CD guardrails, and developer tooling that removes friction.
+* **Big-Picture Strategy to Hands-On Navigation:** Comfortable operating from 30,000-foot strategic roadmaps down into technical details—collaborating with engineering teams and leveraging modern AI workflows to navigate complex codebases, infrastructure, and application architecture without losing sight of business outcomes.
+* **Architecture with Pragmatism:** Strong bias for Infrastructure as Code, auditable systems, reproducible builds, and a strict security posture. I treat disciplined architecture and clear guardrails as essential foundations for both human teams and AI-assisted development.
+* **Rigorous Testing & Quality Gates:** Quality is built in, not bolted on. Strong commitment to test-driven design, comprehensive automated testing (unit, API, E2E), and user acceptance testing (UAT) to catch regressions early and ship with confidence.
+* **Empowering Teams & Developer Velocity:** Champion of clear documentation, automated CI/CD guardrails, and developer tooling that removes friction and helps teams move fast safely.
 
 ---
 
@@ -79,6 +83,4 @@ Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio S
 * **Creative Lab & Experiments:** [wreckreation.org](https://wreckreation.org)
 * **Game Development Credits:** [MobyGames (Colin Wilkinson)](https://www.mobygames.com/person/141757/colin-wilkinson/)
 
-```
-Looking to discuss enterprise architecture, low-latency audio systems, or engineering leadership? Feel free to reach out on LinkedIn.
-```
+Looking to discuss enterprise systems, SaaS architecture, engineering leadership, or audio software? Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/wreckingadm/) or via [BOXdev.com](https://boxdev.com).
