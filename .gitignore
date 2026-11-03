@@ -1,0 +1,28 @@
+# --- Logs ---
+
+logs
+*.log
+
+# --- OS Specific ---
+
+.DS_Store
+Thumbs.db
+
+# --- IDEs ---
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Caches ---
+
+.cache/
+
+# --- Environment Variables & Secrets ---
+
+.env
+.env*.local
+credentials/
+secrets/
+*key.json
