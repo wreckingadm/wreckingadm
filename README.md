@@ -76,7 +76,7 @@ Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio S
 * **LinkedIn:** [linkedin.com/in/wreckingadm](https://www.linkedin.com/in/wreckingadm/)
 * **Consulting & Systems Architecture:** [BOXdev.com](https://boxdev.com)
 * **Audio Engineering & Software:** [ConfluenceAudio.com](https://confluenceaudio.com)
-* **Creative Lab & Experiments:** [Wreckreation.org](https://wreckreation.org)
+* **Creative Lab & Experiments:** [wreckreation.org](https://wreckreation.org)
 * **Game Development Credits:** [MobyGames (Colin Wilkinson)](https://www.mobygames.com/person/141757/colin-wilkinson/)
 
 ```
