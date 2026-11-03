@@ -48,7 +48,7 @@ Actively shipping and maintaining real-world production platforms, automated inf
 
 ```
 Enterprise Scale (Etsy)  ──────►  10 Years | $1B+ M&A Scope | IAM & Enterprise Infrastructure
-Game Development (Industry)  ──►  18 Years | 50+ Commercial Titles | Design Director & Lead
+Game Development (Industry)  ──►  18 Years | 50+ Commercial Titles | Design Director & Production Lead
 Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio Software | Modern Web
 ```
 
@@ -59,7 +59,7 @@ Active Builder & Architect  ───►  Production Cloud Systems | DSP Audio S
 
 ### 🎮 Game Development & Platform Architecture (18 Years)
 * **50+ Commercial Releases:** Led cross-functional engineering, design, and audio teams to ship over 50 titles spanning console, PC, web, and mobile ecosystems ([view credits on MobyGames](https://www.mobygames.com/person/141757/colin-wilkinson/)).
-* **Design Director & Technical Leadership:** Guided multi-discipline development pipelines, unifying real-time interactive systems, gameplay mechanics, and technical asset optimization across AAA and indie-scale productions.
+* **Design Director & Production Lead:** Guided multi-discipline development pipelines, unifying real-time interactive systems, gameplay mechanics, and technical asset optimization across AAA and indie-scale productions.
 
 ---
 
